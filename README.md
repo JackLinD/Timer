@@ -3,4 +3,4 @@
 <img src="https://raw.githubusercontent.com/JackLinD/Timer/master/1.jpg">
 <img src="https://raw.githubusercontent.com/JackLinD/Timer/master/2.jpg">
 <img src="https://raw.githubusercontent.com/JackLinD/Timer/master/3.jpg">
-<img src="https://raw.githubusercontent.com/JackLinD/Timer/master/4.jpg">
+<img src="https://raw.githubusercontent.com/JackLinD/Timer/master/4.png">
