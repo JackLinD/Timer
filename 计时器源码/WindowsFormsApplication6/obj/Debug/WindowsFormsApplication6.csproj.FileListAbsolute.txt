@@ -1,0 +1,43 @@
+c:\users\lala\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+c:\users\lala\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+c:\users\lala\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+c:\users\lala\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+c:\users\lala\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form2.resources
+c:\users\lala\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+c:\users\lala\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+c:\users\lala\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+c:\users\lala\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+c:\users\lala\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form3.resources
+C:\Users\lala\Desktop\计时器\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\lala\Desktop\计时器\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\lala\Desktop\计时器\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\lala\Desktop\计时器\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\lala\Desktop\计时器\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\lala\Desktop\计时器\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\lala\Desktop\计时器\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\lala\Desktop\计时器\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form2.resources
+C:\Users\lala\Desktop\计时器\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form3.resources
+C:\Users\lala\Desktop\计时器\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\lala\Desktop\计时器\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\lala\Desktop\计时器\计时器源码\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\lala\Desktop\计时器\计时器源码\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\lala\Desktop\计时器\计时器源码\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\lala\Desktop\计时器\计时器源码\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\lala\Desktop\计时器\计时器源码\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\lala\Desktop\计时器\计时器源码\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\lala\Desktop\计时器\计时器源码\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\lala\Desktop\计时器\计时器源码\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form2.resources
+C:\Users\lala\Desktop\计时器\计时器源码\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form3.resources
+C:\Users\lala\Desktop\计时器\计时器源码\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\lala\Desktop\计时器\计时器源码\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\lala\Desktop\临时店\计时器\计时器源码\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\lala\Desktop\临时店\计时器\计时器源码\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\lala\Desktop\临时店\计时器\计时器源码\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\lala\Desktop\临时店\计时器\计时器源码\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\lala\Desktop\临时店\计时器\计时器源码\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\lala\Desktop\临时店\计时器\计时器源码\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\lala\Desktop\临时店\计时器\计时器源码\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\lala\Desktop\临时店\计时器\计时器源码\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form2.resources
+C:\Users\lala\Desktop\临时店\计时器\计时器源码\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form3.resources
+C:\Users\lala\Desktop\临时店\计时器\计时器源码\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\lala\Desktop\临时店\计时器\计时器源码\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
